@@ -1,0 +1,7 @@
+[project]
+name = "quran-py-surah-makki-madani"
+version = "1.0.0"
+description = "Makki vs Madani Surah Stylometric Classifier (مصنف السور المكية والمدنية بالخصائص الأسلوبية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
